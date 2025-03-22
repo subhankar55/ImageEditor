@@ -1,2 +1,2 @@
-# imageEditor
- Color editor application interface which will be helpful to edit the color of an image.
+# ImageEditor
+ Image editor application interface which will be helpful to edit the color of an image.
